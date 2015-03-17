@@ -4,3 +4,9 @@ cl /c /EHs /MD /Zi /nologo "/Fosrc\\sample.obj" "..\\src\\sample.cpp"
 sample.cpp
 link /debug /nologo /OUT:sample.exe "src\\sample.obj" 
 LINK : fatal error LNK1104: не удается открыть файл "kernel32.lib"
+22:56:32 **** Incremental Build of configuration Debug for project sample ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\sample.obj" "..\\src\\sample.cpp" 
+sample.cpp
+link /debug /nologo /OUT:sample.exe "src\\sample.obj" 
+LINK : fatal error LNK1104: не удается открыть файл "kernel32.lib"
