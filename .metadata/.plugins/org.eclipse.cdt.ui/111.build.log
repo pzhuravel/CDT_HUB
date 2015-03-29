@@ -1,0 +1,9 @@
+22:08:05 **** Rebuild of configuration Debug for project 111 ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\111.obj" "..\\src\\111.cpp" 
+111.cpp
+link /debug /nologo /OUT:111.exe "src\\111.obj" 
+LINK : fatal error LNK1104: не удается открыть файл "kernel32.lib"
+
+22:08:09 Build Finished (took 4s.26ms)
+

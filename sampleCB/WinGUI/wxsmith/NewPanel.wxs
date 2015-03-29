@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxPanel" name="NewPanel">
+		<size>52,111</size>
+		<object class="wxCheckBox" name="ID_CHECKBOX1" variable="CheckBox1" member="yes">
+			<label>Label</label>
+			<pos>0,24</pos>
+			<size>80,32</size>
+		</object>
+	</object>
+</wxsmith>

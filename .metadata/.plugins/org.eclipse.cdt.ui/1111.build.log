@@ -1,0 +1,11 @@
+22:09:24 **** Rebuild of configuration Debug for project 1111 ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o "src\\1111.bc" "..\\src\\1111.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:/Program Files/Java/jre1.8.0_25/bin/server;C:/Program Files/Java/jre1.8.0_25/bin;C:/Program Files/Java/jre1.8.0_25/lib/amd64;D:\Program Files\Borland\Delphi\Bin;D:\Program Files\Borland\Delphi\Projects\Bpl\;D:\PROGRA~1\Borland\CBUILD~1\Bin;D:\PROGRA~1\Borland\CBUILD~1\Projects\Bpl;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\mpj-v0_43\bin;C:\Program Files\Java\jre1.8.0_20\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Microsoft MPI\Bin;C:\Program Files\eclipse]
+
+
+22:09:24 Build Finished (took 60ms)
+
